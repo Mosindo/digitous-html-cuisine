@@ -13,11 +13,23 @@ header img{
     text-align: center;
     
 }
-
-.navbrand{
-
+.article{
+    font-family: oswald;
+    margin: 48px 0px;
+    text-align: center;
+}
+p{
+    font-family: oswald;
+    margin: 24px 0px;
 }
 
 .col{
     margin-bottom: 15px;
 }
+.link ul li::marker {
+    list-style: none;
+}
+ i{
+    font-size: 4.3rem;
+    margin: 0px 15px ;
+  }
