@@ -1,9 +1,22 @@
 /* Les couleurs utilisées sont le blanc : #FFFFFF et le noir #000000*/
-@font-face {
-    font-family: "courgette";
-    src: url("./../font/Courgette-Regular.ttf")  format("truetype");         
-   }
-@font-face {
-    font-family: "oswald";
-    src: url("./../font/Oswald-Regular.ttf")  format("truetype");         
-   }
+.first{
+    width: auto;
+    height: auto;
+    background-image: url("./../img/header.jpg" ) ;
+    background-position: center;
+    color: #ffffff;
+}
+
+header img{
+    height:100px;
+    width:100px;
+    text-align: center;
+}
+
+.navbrand{
+    
+}
+
+.col{
+    margin-bottom: 15px;
+}
