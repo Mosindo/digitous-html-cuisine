@@ -1,0 +1,9 @@
+/* Les couleurs utilisées sont le blanc : #FFFFFF et le noir #000000*/
+@font-face {
+    font-family: "courgette";
+    src: url("./../font/Courgette-Regular.ttf")  format("truetype");         
+   }
+@font-face {
+    font-family: "oswald";
+    src: url("./../font/Oswald-Regular.ttf")  format("truetype");         
+   }
