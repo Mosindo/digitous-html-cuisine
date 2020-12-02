@@ -52,5 +52,13 @@ footer .row .list li{
   input{
       padding: 5px 12px;
   }
+  .justify-content-start{
+      padding:Opx;
+  }
+  /* articles responsive*/
 
-  
+  .red{
+    background-color: red;
+    height: 72px;
+    margin: 15px;
+}
