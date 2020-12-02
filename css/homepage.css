@@ -26,10 +26,28 @@ p{
 .col{
     margin-bottom: 15px;
 }
-.link ul li::marker {
-    list-style: none;
+footer{
+    width: 100%;
+    background-color: #000000;
+    color:#ffffff;
+    
 }
- i{
+footer .row li{
+    margin: 15px
+}
+.list .list-ul{
+    padding: 0px;
+}
+footer .row .list li{
+   list-style: none;
+   text-decoration: underline;
+   font-family: oswald;
+}
+.d-flex{
+    margin: 0px ;
+    padding: 0px ;
+}
+.d-flex li{
     font-size: 4.3rem;
-    margin: 0px 15px ;
+     margin: 0px 10px 0px 0px;
   }
