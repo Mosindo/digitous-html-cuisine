@@ -31,7 +31,7 @@ footer{
     
 }
 footer .row li{
-    margin-left: 10px
+    margin-left: px
 }
 .list .list-ul{
     padding: 0px;
@@ -47,10 +47,24 @@ footer .row li{
 }
 .d-flex li{
     font-size: 4.3rem;
-     margin: 0px ;
+     margin-left: 15px ;
   }
   input{
       padding: 5px 12px;
+      margin-left: 16px;
+      font-family: oswald;
+  }
+  button{
+    padding: 5px 12px;
+    margin-left: 16px;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 5%;
+    font-family: oswald;
+  }
+  button:hover{
+    background-color:#ffffff; 
+    color:  #000000; 
   }
   .justify-content-start{
       padding:Opx;
@@ -60,9 +74,21 @@ footer .row li{
     width: 100%;
     height: auto;
   }
-  .red{
-    background-color: red;
-    height: 360;
-    width: auto;
-    margin: 15px;
+
+.more-articles{
+    text-align: center;
+    margin: 18px;
+}
+a{
+    text-decoration: none;
+    font-family: oswald;
+    color: #000000;
+    margin: 100px 0px;
+    font-size: 1.1rem;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.5rem;
 }
