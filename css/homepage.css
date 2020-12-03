@@ -36,10 +36,10 @@ footer .row li{
 .list .list-ul{
     padding: 0px;
 }
-footer .row .list li{
-   list-style: none;
-   text-decoration: underline;
-   font-family: oswald;
+ .list-ul{
+    list-style: none;
+    text-decoration: underline;
+    font-family: oswald;
 }
 .d-flex{
     margin: 0px ;
