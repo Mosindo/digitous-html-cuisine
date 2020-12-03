@@ -63,5 +63,6 @@ footer .row .list li{
   .red{
     background-color: red;
     height: 360;
+    width: auto;
     margin: 15px;
 }
