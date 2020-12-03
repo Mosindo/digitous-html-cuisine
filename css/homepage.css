@@ -56,9 +56,12 @@ footer .row .list li{
       padding:Opx;
   }
   /* articles responsive*/
-
+  img{
+    width: 100%;
+    height: auto;
+  }
   .red{
     background-color: red;
-    height: 72px;
+    height: 360;
     margin: 15px;
 }
